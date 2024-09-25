@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, NextJs**
 
-- 💬 Ask me about **React, ExpressJs, NodeJs,React Native**
+- 💬 Ask me about **React, ExpressJs, NodeJs, React Native**
 
 - 📫 How to reach me **nashirnisar@gmail.com**
 
